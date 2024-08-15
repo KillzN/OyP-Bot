@@ -46,8 +46,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤  ${usedPrefix}menuff*
- *┃➤  ${usedPrefix}comandosff*
  *┃➤  ${usedPrefix}kick*
  *┃➤  ${usedPrefix}grupo*
  *┃➤  ${usedPrefix}promote*
