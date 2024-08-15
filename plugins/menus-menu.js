@@ -60,6 +60,17 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
+ *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
+ *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
+ *║* 🎐_${usedPrefix}SpamComu / Comunidades_
+ *║* 🎐 _${usedPrefix}Spam2_
+ *║* 🎐 _${usedPrefix}rcursosdzn_
+ *║* 🎐 _${usedPrefix}drivesdzn_
+ *║* 🎐 _${usedPrefix}dzn_
+ *║* 🎐 _${usedPrefix}ApkEdits_
+ *║* 🎐 _${usedPrefix}DriveEdits_
+ *╚══ ≪ •❈• ≫ ══╝*
+
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
